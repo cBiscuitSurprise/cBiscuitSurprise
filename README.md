@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ### 📫 How to reach me
 
 1. email: `caseyb1101@gmail.com`
-2. my dev site: `casey.boyer.consulting` (select **Message** in the top right)
+2. my dev site: [casey.boyer.consulting](https://casey.boyer.consulting) (select **Message** in the top right)
